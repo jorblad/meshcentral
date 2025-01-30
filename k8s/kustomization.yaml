@@ -8,3 +8,4 @@ resources:
  - meshcentral-service.yaml
  - user-files-persistentvolumeclaim.yaml
  - web-persistentvolumeclaim.yaml
+ - ingress.yaml
